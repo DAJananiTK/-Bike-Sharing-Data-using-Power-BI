@@ -1,6 +1,6 @@
 # 🚲 Bike Station Sharing Dashboard
 
-![bike dashboard](bike dashboard.png)
+![Bike Dashboard](bike%20dashboard.png)
 
 ## 📌 Overview
 
