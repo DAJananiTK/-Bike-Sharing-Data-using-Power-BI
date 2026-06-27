@@ -130,21 +130,4 @@ The Bike Station Sharing Dashboard provides a comprehensive view of station perf
 
 ---
 
-## 📁 Repository Structure
 
-```text
-Bike-Station-Sharing-Dashboard/
-│
-├── Bike Station Sharing Dashboard.pbix
-├── bike dashboard.png
-├── Dataset.xlsx
-└── README.md
-```
-
-> **Note:** The dashboard image is displayed using:
-
-```markdown
-![Bike Dashboard](bike%20dashboard.png)
-```
-
-Make sure the file **`bike dashboard.png`** is placed in the **root folder** of your GitHub repository.
