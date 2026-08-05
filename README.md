@@ -1,14 +1,14 @@
-# 🚲 Bike Station Sharing Dashboard
+#  Bike Station Sharing Dashboard
 
 ![Bike Dashboard](bike%20dashboard.png)
 
-## 📌 Overview
+##  Overview
 
 This project showcases an interactive **Power BI dashboard** built to analyze the performance of a bike-sharing system across multiple cities. The dashboard provides insights into station distribution, bike availability, operational status, city-wise performance, and station conditions, helping stakeholders monitor system efficiency and optimize bike allocation.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze the geographic distribution of bike stations.
 - Compare bike and stand availability across cities.
@@ -20,7 +20,7 @@ This project showcases an interactive **Power BI dashboard** built to analyze th
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset includes the following information:
 
@@ -39,7 +39,7 @@ The dataset includes the following information:
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The dataset was cleaned and transformed using **Power Query Editor**.
 
@@ -55,7 +55,7 @@ The dataset was cleaned and transformed using **Power Query Editor**.
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 The dashboard contains the following visualizations:
 
@@ -90,7 +90,7 @@ The dashboard contains the following visualizations:
 
 ---
 
-## 📐 DAX Measures
+##  DAX Measures
 
 - Total Stations
 - Total Bike Availability
@@ -104,7 +104,7 @@ The dashboard contains the following visualizations:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Bruxelles-Capitale** has the highest bike availability, indicating a strong bike supply.
 - **Lyon** has the largest bike stand capacity, reflecting a well-developed bike-sharing network.
@@ -116,7 +116,7 @@ The dashboard contains the following visualizations:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI Desktop**
 - **Power Query**
@@ -124,7 +124,7 @@ The dashboard contains the following visualizations:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The Bike Station Sharing Dashboard provides a comprehensive view of station performance, bike availability, and operational efficiency across multiple cities. The analysis highlights strong infrastructure in cities like **Bruxelles-Capitale** and **Lyon**, while also identifying opportunities to improve bike redistribution due to the presence of many empty stations. Overall, the dashboard enables data-driven decision-making to enhance service quality and optimize resource allocation.
 
